@@ -8,6 +8,7 @@ This is a srcript made for generate .exe without having to make it manually in t
 3. Enjoy
 
 --How to use--
+
 1.Look for the file you want to make a exe for
 2.Shft + R.click and copy the route
 3.Paste it in the generator
